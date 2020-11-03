@@ -1,0 +1,18 @@
+[context.production]
+  command = "bin/prod.sh"
+  publish = "public/"
+
+# Deploy Preview context: All Deploy Previews
+# will inherit these settings.
+[context.deploy-preview]
+  publish = "public/"
+  command = "bin/deploy-preview.sh"
+
+[context.production.environment]
+  HUGO_VERSION = "0.76.5"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.76.5"
+
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.76.5"
