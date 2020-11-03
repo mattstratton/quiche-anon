@@ -38,7 +38,7 @@ site_layout = "row"
 enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
-# about_logo = "/img/hugocast.png"
+about_logo = "/img/quiche.jpg"
 copyright_notice = "Copyright 2020 [Quiche-Anon](https://www.quicheanon.com)"
 # itunes_subscribe = "https://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
 # android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
@@ -84,8 +84,8 @@ disqusShortname = ""
 #     subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
 
   [params.social]
-    twitter = "arresteddevops"
-    twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+    twitter = "quicheanon"
+    twitter_domain = "quicheanon.com" # This domain shows in twitter cards as "View on `twitter_domain`"
 
   [params.authors]
     [params.authors.Matt]
