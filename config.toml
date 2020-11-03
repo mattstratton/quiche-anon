@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://www.quicheanon.com/"
 languageCode = "en-us"
 title = "Quiche-Anon"
 theme = "castanet"
@@ -20,36 +20,15 @@ paginate = "9"
     identifier = "about"
     url = "/about"
 
-[[Menu.Main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "/contact"
+# [[Menu.Main]]
+#     name = "Contact"
+#     identifier = "contact"
+#     url = "/contact"
 
 [[Menu.Main]]
     name = "Hosts"
     identifier = "hosts"
     url = "/host"
-
-[[Menu.Main]]
-    name = "Guests"
-    identifier = "guests"
-    url = "/guest"
-
-[[Menu.Main]]
-    name = "Resources"
-    identifier = "resources"
-    url = "#!"
-
-[[Menu.Main]]
-    name = "Books"
-    identifier = "books"
-    url = "/books"
-    parent = "resources"
-[[Menu.Main]]
-    name = "Podcasts"
-    identifier = "podcasts"
-    url = "/books"
-    parent = "resources"
 
 [params]
 mainSections = ["episode"]
@@ -70,11 +49,11 @@ copyright_notice = "Copyright 2020 [Quiche-Anon](https://www.quicheanon.com)"
 # pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 # mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about [podcasting](https://en.wikipedia.org/wiki/Podcast) from the most inspiring experts to ever show up on the whole internet."
+description = "A podcast about conspiracy theories and cooking"
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
 disqusShortname = ""
   [params.feed]
-    copyright = "Copyright 2016 Matt Stratton" #do not use markdown in this field; it is used in the feed
+    copyright = "Copyright 2020 Quiche-Anon" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The best podcast ever" #no markdown or HTML
     itunes_author = "Matt Stratton" #no markdown or HTML
     itunes_summary = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about podcasting from the most inspiring experts to ever show up on the whole internet." # Limited to 4000 characters or less, plain text, no HTML
@@ -91,37 +70,27 @@ disqusShortname = ""
     msapplication_tilecolor="#2b5797"
     theme_color="#ffffff"
 
-  [params.podlove] # https://subscribe-button.podlove.org
-    subscribe_title = ""              # fallback: site title from above
-    subscribe_subtitle = ""           # fallback: ""
-    subscribe_description = ""        # fallback: ""
-    subscribe_cover = "img/logo.jpg"  # fallback: ""
-    subscribe_color = "#585e6c"       # fallback: ""
-    subscribe_size = "medium"         # options: small, medium, big
-    subscribe_format = "rectangle"    # options: rectangle, square, cover
-    subscribe_style = "filled"        # options: filled, outline, frameless
-    subscribe_language = "de"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
-    subscribe_feed_type = "audio"     # options: audio, video
-    subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
+#   [params.podlove] # https://subscribe-button.podlove.org
+#     subscribe_title = ""              # fallback: site title from above
+#     subscribe_subtitle = ""           # fallback: ""
+#     subscribe_description = ""        # fallback: ""
+#     subscribe_cover = "img/logo.jpg"  # fallback: ""
+#     subscribe_color = "#585e6c"       # fallback: ""
+#     subscribe_size = "medium"         # options: small, medium, big
+#     subscribe_format = "rectangle"    # options: rectangle, square, cover
+#     subscribe_style = "filled"        # options: filled, outline, frameless
+#     subscribe_language = "en"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
+#     subscribe_feed_type = "audio"     # options: audio, video
+#     subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
 
   [params.social]
-    github = "arresteddevops"
-    gitlab = "mattstratton"
-    facebook = "Arresteddevops"
-    facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
     twitter = "arresteddevops"
     twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    googleplus = "ArrestedDevOps"
-    pinterest = "nozzleio"
-    instagram = "nozzleio"
-    youtube = "arresteddevops"
-    linkedin = "mattstratton"
-    twitch = "mattstratton"
 
   [params.authors]
     [params.authors.Matt]
       name	= "Matt Stratton"
-      thumbnail = "img/host/matt.png"
+      thumbnail = "img/host/matt.jpg"
       bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
       [params.authors.Matt.social]
         github = "mattstratton"
