@@ -101,6 +101,9 @@ disqusShortname = ""
         instagram = "instagram"
         youtube = "mattstratton"
         twitch = "mattstratton"
+    [params.authors.Kelli]
+        name = "Kelli Prichard"
+        thumbnail = "img/host/kelli.jpg"
 
     [params.links]
       [params.links.ado]
