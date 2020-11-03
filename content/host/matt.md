@@ -15,4 +15,4 @@ YouTube = ""
 Twitch = "mattstratton"
 Hide = ""
 +++
-Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey.
+Matt Stratton lives in the Chicagoland area and has three awesome kids, whom he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best phở in the world. 
