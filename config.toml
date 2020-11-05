@@ -50,7 +50,7 @@ copyright_notice = "Copyright 2020 [Quiche-Anon](https://www.quicheanon.com)"
 # mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "A podcast about conspiracy theories and cooking"
-media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
+media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/quicheanon/"
 disqusShortname = ""
   [params.feed]
     copyright = "Copyright 2020 Quiche-Anon" #do not use markdown in this field; it is used in the feed
@@ -60,7 +60,7 @@ disqusShortname = ""
     itunes_owner_name = "Matt Stratton"
     itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
     itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
-    itunes_top_category = "Talk Radio"
+    itunes_top_category = "News - News Commentary"
     # itunes_first_sub_category = "Software How-To"
     # itunes_second_sub_category = "Tech News"
     language = "en-us"
