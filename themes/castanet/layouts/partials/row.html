@@ -98,12 +98,15 @@
     {{- end -}}
   {{- end -}}
   {{- with .Params.podcast_file -}}
-    <div class = "row">
-      <div class = "col-md-12">
-      <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto" />
+
+    <div class = "row homepage_episode_row">
+      <div class = "col-md-12 player_row">
+        <audio id="player2" style="width: 100%" controls preload="none">
+          <source src="{{ $.Site.Params.media_prefix }}{{ . }}" type="audio/mp3">
+        </audio>
       </div>
     </div>
-  {{- end -}}
+{{- end -}}
 
   {{- end -}}
   </div>
@@ -164,13 +167,6 @@
           </div>
         {{- end -}}
       </div>
-      {{- with .Params.podcast_file -}}
-        <div class = "row homepage_episode_row">
-          <div class = "col-md-12 player_row">
-            <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto" />
-          </div>
-        </div>
-      {{- end -}}
 
     {{- end -}}
   {{- end -}}
