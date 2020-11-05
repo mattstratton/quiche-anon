@@ -2,7 +2,7 @@ baseurl = "http://www.quicheanon.com/"
 languageCode = "en-us"
 title = "Quiche-Anon"
 theme = "castanet"
-googleAnalytics = ""
+googleAnalytics = "UA-182123125-1"
 paginate = "9"
 
 
