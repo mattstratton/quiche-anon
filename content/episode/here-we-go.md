@@ -21,3 +21,8 @@ explicit = "no" # values are "yes" or "no"
 # truncate = ""
 +++
 The first episode! Kelli and Matt don't know what they are doing.
+
+![](/img/random/kelli-what.gif)
+
+<img src = "/img/random/matt-fantastic.gif" width = 480px>
+

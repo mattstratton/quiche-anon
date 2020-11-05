@@ -11,7 +11,11 @@ paginate = "9"
 	about = "/:filename/"
 	episode = "/:filename/"
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
+    
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
