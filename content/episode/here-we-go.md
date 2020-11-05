@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "Matt and Kelli have no idea what they're doing"
 Date = 2020-11-05T12:26:32-06:00
 PublishDate = 2020-11-05T12:26:32-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
