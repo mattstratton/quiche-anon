@@ -50,7 +50,7 @@ copyright_notice = "Copyright 2020 [Quiche-Anon](https://www.quicheanon.com)"
 # pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 # mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "A podcast about conspiracy theories and cooking"
+description = "A podcast about conspiracy theories and cooking. More words about the show! We talk about stuff and it's funny, so you should listen to this show or else you won't be cool."
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/quicheanon/"
 disqusShortname = ""
   [params.feed]
