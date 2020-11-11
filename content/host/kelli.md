@@ -9,7 +9,8 @@ Linkedin = ""
 GitHub = ""
 Thumbnail = "img/host/kelli.jpg"
 Pinterest = ""
-Instagram = ""
+Instagram = "allaboutkelli"
 YouTube = ""
 Twitch = ""
 +++
+Kelli is a fake blonde who lives in Chicago. She loves staring out her windows on summer nights watching drunk people stumble and yell. Her hobbies include 90 Day Fiancé, reading about true crime, and talking trash like it's her job.
