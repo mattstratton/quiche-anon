@@ -51,7 +51,7 @@ copyright_notice = "Copyright 2020 [Quiche-Anon](https://www.quicheanon.com)"
 # google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
 # stitcher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
 # soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
-# pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+pocketcasts_subscribe = "http://pca.st/459nu3mz"
 # mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "A podcast about conspiracy theories and cooking. Hosts Kelli and Matt will take you on a journey through the deepest, darkest paths of conspiracy theories - mixed in with their takes on what makes food amazing and delicious."
@@ -80,7 +80,7 @@ disqusShortname = ""
 #     subscribe_title = ""              # fallback: site title from above
 #     subscribe_subtitle = ""           # fallback: ""
 #     subscribe_description = ""        # fallback: ""
-#     subscribe_cover = "img/logo.jpg"  # fallback: ""
+#     subscribe_cover = "/img/quiche-anon-logo-500.jpg"  # fallback: ""
 #     subscribe_color = "#585e6c"       # fallback: ""
 #     subscribe_size = "medium"         # options: small, medium, big
 #     subscribe_format = "rectangle"    # options: rectangle, square, cover
