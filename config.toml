@@ -65,10 +65,11 @@ disqusShortname = ""
     itunes_owner_name = "Matt Stratton"
     itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
     itunes_image = "https://www.quicheanon.com/img/quiche-anon-logo-big.png" #fqdn to the image art for your podcast
-    itunes_top_category = "News - News Commentary"
-    # itunes_first_sub_category = "Software How-To"
+    itunes_top_category = "News"
+    itunes_first_sub_category = "News Commentary"
     # itunes_second_sub_category = "Tech News"
     language = "en-us"
+    explicit = "yes"
 
   [params.realfavicongenerator] # https://realfavicongenerator.net/
     mask_icon_color="#5bbad5"
