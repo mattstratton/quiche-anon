@@ -1,11 +1,11 @@
 +++
-Description = "Matt and Kelli kick off the very first episode of Quiche-Anon digging into the details of conspiracies surrounding the Denver airport"
+Description = "Matt and Kelli kick off the very first episode of Quiche-Anon digging into the details of conspiracies surrounding the Denver airport."
 Date = 2020-11-11T12:26:32-06:00
 PublishDate = 2020-11-11T12:26:32-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "quiche-anon-episode-001.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "48:27"
 podcast_bytes = "22200000" # the length of the episode in bytes
-episode_image = "img/episode/default.jpg"
+episode_image = "img/episode/denver-airport-omlette.jpg"
 episode_banner = "img/episode/denver-airport-omlette-banner.jpg"
 #guests = [] # The names of your guests, based on the filename without extension.
 #sponsors = []
