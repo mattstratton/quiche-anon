@@ -1,7 +1,7 @@
 +++
 Description = "Is Mattress Firm a cover for money laundering? And what about the mysterious disappearance of Jake Cefolia? Plus, Kelli is a bone broth un-fluencer."
-Date = 2020-12-08T21:41:50-06:00
-PublishDate = 2020-12-08T21:41:50-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2020-12-09T07:41:50-06:00
+PublishDate = 2020-12-09T07:41:50-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "quiche-anon-episode-003.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "39:50"
 podcast_bytes = "18200000" # the length of the episode in bytes
