@@ -19,6 +19,8 @@ aliases = ["/5"]
 explicit = "yes" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
+transcript = "/static/transcripts/theres-a-ramada-under-area-51.md"
+
 +++
 Don't forget to listen past the end theme for some extra special bonus content!
 
