@@ -1,7 +1,7 @@
 +++
 Description = "It's time for an episode about aliens! Kelli and Matt talk about Area 51, hollow earth alien theories, dinosaur romance novels, and draft their top five favorite cereals. Also, Matt can't remember the URL of the podcast's website."
-Date = 2021-01-04T21:38:57-06:00
-PublishDate = 2021-01-04T21:38:57-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2021-01-05T00:18:57-06:00
+PublishDate = 2021-01-05T00:18:57-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "quiche-anon-episode-005.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "49:15"
 podcast_bytes = "22500000" # the length of the episode in bytes
