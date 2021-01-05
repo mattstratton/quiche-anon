@@ -44,7 +44,7 @@ enable_jumbo = "true"
 # truncate = "100"
 favicon = "favicon.ico"
 about_logo = "/img/quiche-anon-logo-500.jpg"
-copyright_notice = "Copyright 2020 [Quiche-Anon](https://www.quicheanon.com)"
+copyright_notice = "Copyright 2020-2021 [Quiche-Anon](https://www.quicheanon.com)"
 itunes_subscribe = "https://podcasts.apple.com/us/podcast/quiche-anon/id1540022698"
 android_subscribe = "https://www.subscribeonandroid.com/feeds.blubrry.com/feeds/quicheanon.xml"
 spotify_subscribe = "https://open.spotify.com/show/7HpBNFUGGwl3eOyqjIzBBd"
@@ -58,7 +58,7 @@ description = "A podcast about conspiracy theories and cooking. Hosts Kelli and 
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/quicheanon/"
 disqusShortname = ""
   [params.feed]
-    copyright = "Copyright 2020 Quiche-Anon" #do not use markdown in this field; it is used in the feed
+    copyright = "Copyright 2020-2021 Quiche-Anon" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "A podcast about conspiracy theories and cooking" #no markdown or HTML
     itunes_author = "Kelli Prichard and Matt Stratton" #no markdown or HTML
     itunes_summary = "Hosts Kelli and Matt talk about their favorite conspiracy theories, as well as favorite recipes and cooking tips. A delightful mix of conspiracy and cooking." # Limited to 4000 characters or less, plain text, no HTML
