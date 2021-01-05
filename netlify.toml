@@ -16,3 +16,9 @@
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.76.5"
+  
+[[redirects]]
+  from = "/itunes"
+  to = "https://podcasts.apple.com/us/podcast/quiche-anon/id1540022698"
+  status = 301
+  force = true
