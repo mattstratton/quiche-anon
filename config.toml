@@ -92,6 +92,7 @@ disqusShortname = ""
   [params.social]
     twitter = "quicheanon"
     twitter_domain = "quicheanon.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+    instagram = "quicheanon"
 
   [params.authors]
     [params.authors.Matt]
