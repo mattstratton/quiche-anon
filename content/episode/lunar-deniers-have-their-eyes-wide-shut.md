@@ -19,6 +19,7 @@ aliases = ["/6"]
 explicit = "yes" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
+transcript = "/static/transcripts/lunar-deniers-have-their-eyes-wide-shut.md"
 +++
 #### Supporting Links
 
