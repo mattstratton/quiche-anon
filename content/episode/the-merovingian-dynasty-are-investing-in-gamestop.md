@@ -19,6 +19,7 @@ aliases = ["/7"]
 explicit = "yes" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
+transcript = "/static/transcripts/the-merovingian-dynasty-are-investing-in-gamestop.md"
 +++
 #### Supporting Links
 - [The Real Reason Why Mary Magdalene is Such a Controversial Figure](https://time.com/5210705/mary-magdalene-controversial/)
