@@ -456,7 +456,7 @@ Kelli: [00:48:19] I will bribe people who give us five star review.
 
 Matt: [00:48:22] That's fair or well and that that write them like that rating is one thing. But give us if you give us a review, like let us know. And if you don't want us to publicly acknowledge you by name, that's fine. But you can tell us because again, the chances are quite good that if you're writing a five star review of our podcast, you probably know how to get a hold of at least one of us.
 
-Kelli: [00:48:42] But also, if you're writing us one star, I want to know, are you a member of the real Quiche-Anon show yourself. Also, I want to talk to you.
+Kelli: [00:48:42] But also, if you're writing us one star, I want to know, are you a member of the real QAnon? Show yourself! Also, I want to talk to you.
 
 Matt: [00:48:52] You can find out our show notes which have all the supporting links. If you go to Quiche-Anon Dotcom, you can follow us on Twitter at Quiche-Anon.
 
