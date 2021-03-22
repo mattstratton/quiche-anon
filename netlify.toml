@@ -9,13 +9,13 @@
   command = "bin/deploy-preview.sh"
 
 [context.production.environment]
-  HUGO_VERSION = "0.76.5"
+  HUGO_VERSION = "0.81.0"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.76.5"
+  HUGO_VERSION = "0.81.0"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.76.5"
+  HUGO_VERSION = "0.81.0"
   
 [[redirects]]
   from = "/itunes"
