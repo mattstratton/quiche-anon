@@ -19,6 +19,7 @@ aliases = ["/8"]
 explicit = "no" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
+transcript = "/static/transcripts/stevie-wonder-can-drive-a-car-if-he-wants-to.md"
 +++
 #### Supporting Links
 - [People Think Stevie Wonder Can See](https://www.btrtoday.com/read/wtaf/211-what-the-actual-fuck/)
