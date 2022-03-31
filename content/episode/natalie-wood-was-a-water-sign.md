@@ -22,6 +22,6 @@ explicit = "yes" # values are "yes" or "no"
 +++
 - [Natalie Wood - Wikipedia](https://en.wikipedia.org/wiki/Natalie_Wood)
 - [Vanity Fair Article about Natalie Wood](​​https://www.vanityfair.com/hollywood/2020/03/natalie-wood-death-murder-robert-wagner-book)
-​​- [All that is Interesting article about Natalie Woods Death](https://allthatsinteresting.com/natalie-wood-death)
+- [All that is Interesting article about Natalie Woods Death](https://allthatsinteresting.com/natalie-wood-death)
 
 <img src = "/img/joes.jpg" width = 300px>
